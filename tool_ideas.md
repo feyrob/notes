@@ -1,7 +1,7 @@
 # LaterList
 A service that allows to store URLs.
 
-## Example Usage - YouTube:
+## Example Usage - YouTube
 You don't log into YouTube since login breaks related video suggestions.
 You find an interesting video and decide to watch it later.
 You add it to your LaterList.
